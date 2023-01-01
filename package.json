@@ -1,0 +1,19 @@
+{
+  "name": "wasd-vpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MercuryOness/WASD-VPN.git"
+  },
+  "author": "Mercury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MercuryOness/WASD-VPN/issues"
+  },
+  "homepage": "https://github.com/MercuryOness/WASD-VPN#readme"
+}
